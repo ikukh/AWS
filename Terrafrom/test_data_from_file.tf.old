@@ -1,0 +1,7 @@
+data "local_file" "blah" {
+  filename = "data.txt"
+}
+
+output "name" {
+  value = data.local_file.blah.content
+}
