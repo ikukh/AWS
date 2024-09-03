@@ -46,3 +46,5 @@ provisioner "remote-exec" {
 }
 
 /* get ami-071de147bf3f27475 shold be ami-0e872aee57663ae2d */
+
+# One line for flux testing
