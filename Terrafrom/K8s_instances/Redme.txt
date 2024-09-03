@@ -1,0 +1,1 @@
+It can deploy environmen. Env will not work on t2.micro, need something bigger. 
